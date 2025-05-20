@@ -88,11 +88,6 @@ pip install tkintermapview
 python main.py
 ```
 
----
-
-## 🖼️ Screenshot
-
-> _(Add a screenshot of the GUI here when ready)_
 
 ---
 
